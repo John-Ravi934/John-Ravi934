@@ -29,7 +29,7 @@
   <img src="https://streak-stats.demolab.com/?user=John-Ravi934&theme=merko&hide_border=true&cache_seconds=86400" alt="John-Ravi934's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=John-Ravi934&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Hey! I'm Ravi's GitHub Trophies" />
+
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=John-Ravi934&theme=merko&radius=10" alt="John-Ravi934's Activity Graph" />

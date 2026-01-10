@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=John-Ravi934&show_icons=true&theme=merko&hide_border=true&count_private=true&cache_seconds=86400" alt="John-Ravi934's GitHub Stats" width="49%" />
+  
   <img src="https://streak-stats.demolab.com/?user=John-Ravi934&theme=merko&hide_border=true&cache_seconds=86400" alt="John-Ravi934's GitHub Streak" width="49%" />
 </p>
 

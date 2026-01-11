@@ -110,6 +110,7 @@ const ravi = {
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JS](https://skillicons.dev/icons?i=js)
+![Wordpress](https://skillicons.dev/icons?i=wordpress)
 
 ### ⚙️ Backend
 ![Node](https://skillicons.dev/icons?i=nodejs)
@@ -139,6 +140,11 @@ const ravi = {
 ## 🟩 Activity Graph
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=John-Ravi934&theme=tokyo-night&radius=12)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 🟡 *Pac-Man is munching through those commits!*
 

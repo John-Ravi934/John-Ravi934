@@ -12,7 +12,7 @@
 
 ## 📌 About Me
 - 🔥 Hello World! I'm Ravi
-- 🎨 Frontend Developer | ✨ Creative Thinker | 🚀 Lifelong Learner
+- 🎨 Frontend Developer | ✨ Creative Thinker | 🚀 Lifelong Learner 
 - 💡 I love turning ideas into beautiful, functional digital experiences
 - 🔧 Specializing in HTML, CSS, JavaScript, and React
 - ⚙️ Skilled in Node.js, Express.js, and MongoDB for backend development
@@ -140,11 +140,7 @@ const ravi = {
 ## 🟩 Activity Graph
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=John-Ravi934&theme=tokyo-night&radius=12)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+
 
 🟡 *Pac-Man is munching through those commits!*
 

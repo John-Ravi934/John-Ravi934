@@ -71,3 +71,50 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
+
+<!-- ================= HERO ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Hey!%20I'm%20Ravi%20👋&fontSize=48&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%26%20UI%20Enthusiast&descSize=20&descAlignY=65"/>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Sponsor-00ff88?style=for-the-badge&logo=github&logoColor=000"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Follow-111?style=for-the-badge&logo=github"/></a>
+</p>
+
+---
+
+## 👨‍💻 `const ravi = { }`
+
+```js
+const ravi = {
+  code: ['JavaScript', 'TypeScript', 'React'],
+  tools: ['Tailwind', 'Figma', 'Git'],
+  architecture: 'Scalable & Modern',
+  coffee_level: Infinity ☕
+};
+
+// Building digital experiences with code_
+
+🧠 About Me
+	
+01	Currently crafting high-performance interfaces
+02	Passionate about Glassmorphism & Micro-interactions
+03	Open to collaboration on Open Source React projects
+04	Exploring the intersection of AI & Frontend
+🧩 Languages & Tools
+🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css,js" /> </p>
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,firebase,postgres" /> </p>
+🎯 Design
+<p> <img src="https://skillicons.dev/icons?i=figma,framer" /> </p>
+📊 GitHub Stats
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=John-Ravi934&show_icons=true&theme=tokyonight&hide_border=true"/> <img width="48%" src="https://streak-stats.demolab.com?user=John-Ravi934&theme=tokyonight&hide_border=true"/> </p>
+📈 Language Mix
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Ravi934&layout=donut&theme=tokyonight&hide_border=true"/> </p>
+🟩 Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=John-Ravi934&theme=tokyo-night&radius=12"/> </p> <p align="center"> 🟡 <i>Pac-man is munching through those commits!</i> </p> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg"> <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg"> </picture>
+🔗 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/john-ravi"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a> <a href="https://wa.me/637974231"><img src="https://skillicons.dev/icons?i=whatsapp" width="48"/></a> <a href="mailto:johnravi934@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a> <a href="https://ravi-glow-forge.lovable.app"><img src="https://skillicons.dev/icons?i=vercel" width="48"/></a> </p>
+<p align="center"> <a href="https://www.buymeacoffee.com/chamidudili"> <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" height="42"/> </a> </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/> ```
+

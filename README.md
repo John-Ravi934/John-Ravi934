@@ -140,7 +140,6 @@ const ravi = {
 ## 🟩 Activity Graph
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=John-Ravi934&theme=merko&radius=12)
- <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=John-Ravi934&theme=merko&radius=10" alt="John-Ravi934's Activity Graph" />
 
 
 🟡 *Pac-Man is munching through those commits!*

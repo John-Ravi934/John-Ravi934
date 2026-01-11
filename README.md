@@ -111,8 +111,8 @@ const ravi = {
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JS](https://skillicons.dev/icons?i=js)
 ![Wordpress](https://skillicons.dev/icons?i=wordpress)
-![Elementor](https://skillicons.dev/icons?i=elementor)
-![Woocommerce](https://skillicons.dev/icons?i=woocommerce)
+![Boostrap](https://skillicons.dev/icons?i=bootstrap)
+
 
 
 ### ⚙️ Backend

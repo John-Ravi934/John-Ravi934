@@ -124,9 +124,11 @@ const ravi = {
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 
-### 🎯 Design
+### 🎯 Design & Deployment 
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Framer](https://skillicons.dev/icons?i=framer)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+
 
 ### ⚒️ Tools
 ![VSCode](https://skillicons.dev/icons?i=vscode)

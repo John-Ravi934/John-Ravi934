@@ -114,12 +114,14 @@ const ravi = {
 ![Boostrap](https://skillicons.dev/icons?i=bootstrap)
 
 
-
 ### ⚙️ Backend
 ![Node](https://skillicons.dev/icons?i=nodejs)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Express](https://skillicons.dev/icons?i=express)
+
+### 📂 Database
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Postgres](https://skillicons.dev/icons?i=postgres)
 
 ### 🎯 Design
 ![Figma](https://skillicons.dev/icons?i=figma)

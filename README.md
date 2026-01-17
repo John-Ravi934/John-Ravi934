@@ -119,6 +119,7 @@ const ravi = {
 ![Node](https://skillicons.dev/icons?i=nodejs)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
+![Express](https://skillicons.dev/icons?i=express)
 
 ### 🎯 Design
 ![Figma](https://skillicons.dev/icons?i=figma)

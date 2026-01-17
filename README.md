@@ -123,6 +123,8 @@ const ravi = {
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
+![Mongodb](https://skillicons.dev/icons?i=mongodb)
+
 
 ### 🎯 Design & Deployment 
 ![Figma](https://skillicons.dev/icons?i=figma)

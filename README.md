@@ -126,7 +126,7 @@ const ravi = {
 
 ### 🎯 Design & Deployment 
 ![Figma](https://skillicons.dev/icons?i=figma)
-![Framer](https://skillicons.dev/icons?i=framer)
+![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 
 

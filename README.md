@@ -125,6 +125,10 @@ const ravi = {
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Framer](https://skillicons.dev/icons?i=framer)
 
+### ⚒️ Tools
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Framer](https://skillicons.dev/icons?i=framer)
+
 ---
 
 ## 📊 GitHub Stats

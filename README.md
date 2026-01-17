@@ -127,7 +127,7 @@ const ravi = {
 
 ### ⚒️ Tools
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![Framer](https://skillicons.dev/icons?i=framer)
+![Git](https://skillicons.dev/icons?i=git)
 
 ---
 

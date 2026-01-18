@@ -128,8 +128,8 @@ const ravi = {
 ![Docker](https://skillicons.dev/icons?i=docker)
 
 ### 📂 Database
-![Firebase](https://skillicons.dev/icons?i=firebase)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Mongodb](https://skillicons.dev/icons?i=mongodb)
 

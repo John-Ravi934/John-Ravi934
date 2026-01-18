@@ -129,8 +129,8 @@ const ravi = {
 
 ### 📂 Database
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Mongodb](https://skillicons.dev/icons?i=mongodb)
 
 ### 🧪 Test & Package

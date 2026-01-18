@@ -112,12 +112,12 @@ const ravi = {
 ## 🧩 Languages & Tools
 
 ### 🎨 Frontend
-![React](https://skillicons.dev/icons?i=react)
-![Next](https://skillicons.dev/icons?i=next)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JS](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Next](https://skillicons.dev/icons?i=next)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Wordpress](https://skillicons.dev/icons?i=wordpress)
 ![Boostrap](https://skillicons.dev/icons?i=bootstrap)
 

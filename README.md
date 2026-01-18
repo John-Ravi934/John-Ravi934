@@ -129,6 +129,7 @@ const ravi = {
 ![Jest](https://skillicons.dev/icons?i=jest)
 ![Babel](https://skillicons.dev/icons?i=babel)
 ![Redux](https://skillicons.dev/icons?i=redux)
+![Npm](https://skillicons.dev/icons?i=npm)
 
 
 ### 🎯 Design & Deployment 

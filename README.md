@@ -127,6 +127,7 @@ const ravi = {
 
 ### 🧪 Test & Package
 ![Jest](https://skillicons.dev/icons?i=jest)
+![Babel](https://skillicons.dev/icons?i=babel)
 
 
 ### 🎯 Design & Deployment 

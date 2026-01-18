@@ -125,6 +125,9 @@ const ravi = {
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Mongodb](https://skillicons.dev/icons?i=mongodb)
 
+### 🧪 Test & Package
+![Jest](https://skillicons.dev/icons?i=jest)
+
 
 ### 🎯 Design & Deployment 
 ![Figma](https://skillicons.dev/icons?i=figma)

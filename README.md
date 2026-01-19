@@ -135,7 +135,7 @@ const ravi = {
 ![Mongodb](https://skillicons.dev/icons?i=mongodb)
 
 ### 🧪 Test & Package
-
+![Jest](https://skillicons.dev/icons?i=jest)
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![Babel](https://skillicons.dev/icons?i=babel)
 ![Npm](https://skillicons.dev/icons?i=npm)

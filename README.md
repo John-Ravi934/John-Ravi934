@@ -142,7 +142,7 @@ const ravi = {
 
 
 ### 🎯 Design & Deployment 
-
+![Figma](https://skillicons.dev/icons?i=figma)
 ![Notion](https://skillicons.dev/icons?i=notion)
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)

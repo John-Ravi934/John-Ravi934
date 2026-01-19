@@ -112,7 +112,7 @@ const ravi = {
 ## 🧩 Languages & Tools
 
 ### 🎨 Frontend
-
+![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JS](https://skillicons.dev/icons?i=js)
 ![Boostrap](https://skillicons.dev/icons?i=bootstrap)

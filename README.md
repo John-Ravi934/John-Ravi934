@@ -124,7 +124,7 @@ const ravi = {
 
 
 ### ⚙️ Backend
-![Node](https://skillicons.dev/icons?i=nodejs)
+
 ![Express](https://skillicons.dev/icons?i=express)
 ![Docker](https://skillicons.dev/icons?i=docker)
 

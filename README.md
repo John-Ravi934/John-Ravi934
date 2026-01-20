@@ -89,7 +89,7 @@
 
 ```js
 const ravi = {
-  code: ['JavaScript', 'TypeScript', 'React'],
+  code: ['JavaScript', 'React'],
   tools: ['Tailwind', 'Figma', 'Git'],
   architecture: 'Scalable & Modern',
   coffee_level: 'Infinity ☕'

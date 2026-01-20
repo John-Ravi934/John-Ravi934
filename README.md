@@ -163,8 +163,10 @@ const ravi = {
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=John-Ravi934&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=John-Ravi934&theme=tokyonight&hide_border=true)
+---
+## ⚔ GitHub Streak
 
+![Streak](https://streak-stats.demolab.com?user=John-Ravi934&theme=tokyonight&hide_border=true)
 ---
 
 ## 📈 Language Mix

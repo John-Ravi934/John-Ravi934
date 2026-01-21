@@ -119,6 +119,7 @@ const ravi = {
 ![React](https://skillicons.dev/icons?i=react)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Next](https://skillicons.dev/icons?i=next)
+![Wordpress](https://skillicons.dev/icons?i=wordpress)
 
 
 

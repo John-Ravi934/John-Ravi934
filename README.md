@@ -134,6 +134,7 @@ const ravi = {
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Mongodb](https://skillicons.dev/icons?i=mongodb)
+![Aws](https://skillicons.dev/icons?i=aws)
 
 
 ### 🧪 Test & Package

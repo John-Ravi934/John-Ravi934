@@ -173,6 +173,10 @@ const ravi = {
 
 ![Streak](https://streak-stats.demolab.com?user=John-Ravi934&theme=tokyonight&hide_border=true)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=John-Ravi934&theme=merko&hide_border=true&cache_seconds=86400" alt="John-Ravi934's GitHub Streak" width="49%" />
+</p>
+
 ---
 
 ## 📈 Language Mix

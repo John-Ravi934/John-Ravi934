@@ -166,14 +166,12 @@ const ravi = {
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=John-Ravi934&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=John-Ravi934&show_icons=true&theme=merko&hide_border=true)
 
 ---
 ## ⚔️ GitHub Streak
 
 ![](https://nirzak-streak-stats.vercel.app/?user=John-Ravi934&theme=merko&hide__border=false)<br/>
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=John-Ravi934&theme=tokyonight&hide_border=false)<br/>
 
 ---
 

@@ -171,9 +171,9 @@ const ravi = {
 ---
 ## ⚔️ GitHub Streak
 
-![](https://nirzak-streak-stats.vercel.app/?user=John-Ravi934&theme=tokyonight&hide__border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=John-Ravi934&theme=merko&hide__border=false)<br/>
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=John-Ravi934&theme=merko&hide__border=false)<br/>
+![Streak](https://nirzak-streak-stats.vercel.app/?user=John-Ravi934&theme=tokyonight&hide_border=false)<br/>
 
 ---
 

@@ -173,13 +173,11 @@ const ravi = {
 
 ![](https://nirzak-streak-stats.vercel.app/?user=John-Ravi934&theme=tokyonight&hide__border=false)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=John-Ravi934&theme=merko&hide_border=false)<br/>
+![Streak](https://nirzak-streak-stats.vercel.app/?user=John-Ravi934&theme=merko&hide__border=false)<br/>
 
 ---
 
 ## 📈 Language Mix
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Ravi934&layout=donut&theme=tokyonight&hide_border=true)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Ravi934&layout=donut&theme=merko&radius=12_border=true)
 
@@ -188,8 +186,6 @@ const ravi = {
 ## 🟩 Activity Graph
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=John-Ravi934&theme=merko&radius=12)
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=John-Ravi934&theme=tokyonight&hide=12)
 
 
 🟡 *Pac-Man is munching through those commits!*

@@ -173,7 +173,7 @@ const ravi = {
 
 ![](https://nirzak-streak-stats.vercel.app/?user=John-Ravi934&theme=tokyonight&hide__border=false)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=John-Ravi934&theme=merko&radius=12_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=John-Ravi934&theme=merko&radius=12__border=false)<br/>
 
 ---
 

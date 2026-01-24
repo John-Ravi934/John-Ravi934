@@ -185,6 +185,8 @@ const ravi = {
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=John-Ravi934&theme=merko&radius=12)
 
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=John-Ravi934&theme=tokyonight&hide)
+
 
 🟡 *Pac-Man is munching through those commits!*
 

@@ -179,6 +179,8 @@ const ravi = {
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Ravi934&layout=donut&theme=tokyonight&hide_border=true)
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Ravi934&layout=donut&theme=merko&radius=12_border=true)
+
 ---
 
 ## 🟩 Activity Graph

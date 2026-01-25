@@ -136,6 +136,13 @@ const ravi = {
 ![Aws](https://skillicons.dev/icons?i=aws)
 
 
+### ☁ Cloud & DevOps
+![Node](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Azure](https://skillicons.dev/icons?i=azure)
+
+
 ### 🧪 Test & Package
 ![Jest](https://skillicons.dev/icons?i=jest)
 ![Redux](https://skillicons.dev/icons?i=redux)

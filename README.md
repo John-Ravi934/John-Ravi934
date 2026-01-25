@@ -126,7 +126,6 @@ const ravi = {
 ![Node](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 
-![Azure](https://skillicons.dev/icons?i=azure)
 
 ### 📂 Database
 ![MySQL](https://skillicons.dev/icons?i=mysql)

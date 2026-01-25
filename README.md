@@ -140,6 +140,7 @@ const ravi = {
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Aws](https://skillicons.dev/icons?i=aws)
 ![Azure](https://skillicons.dev/icons?i=azure)
+![Gcp](https://skillicons.dev/icons?i=gcp)
 
 
 ### 🧪 Test & Package
@@ -155,7 +156,6 @@ const ravi = {
 ![Notion](https://skillicons.dev/icons?i=notion)
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
-![Gcp](https://skillicons.dev/icons?i=gcp)
 
 
 ### ⚒️ Tools

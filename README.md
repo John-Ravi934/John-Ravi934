@@ -122,8 +122,6 @@ const ravi = {
 ![Wordpress](https://skillicons.dev/icons?i=wordpress)
 
 
-
-
 ### ⚙️ Backend
 ![Node](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)

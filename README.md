@@ -123,18 +123,21 @@ const ravi = {
 
 ---
 
-
+<br>
 ### ⚙️ Backend
 ![Node](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 
 
+---
+
+<br>
 ### 📂 Database
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Mongodb](https://skillicons.dev/icons?i=mongodb)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
-
+---
 
 
 ### ☁ Cloud & DevOps

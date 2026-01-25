@@ -130,8 +130,8 @@ const ravi = {
 ### 📂 Database
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
-![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Mongodb](https://skillicons.dev/icons?i=mongodb)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
 
 

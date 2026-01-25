@@ -133,13 +133,12 @@ const ravi = {
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Mongodb](https://skillicons.dev/icons?i=mongodb)
-![Aws](https://skillicons.dev/icons?i=aws)
+
 
 
 ### ☁ Cloud & DevOps
 ![Docker](https://skillicons.dev/icons?i=docker)
-![Express](https://skillicons.dev/icons?i=express)
-![Docker](https://skillicons.dev/icons?i=docker)
+![Aws](https://skillicons.dev/icons?i=aws)
 ![Azure](https://skillicons.dev/icons?i=azure)
 
 

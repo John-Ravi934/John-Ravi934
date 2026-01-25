@@ -144,6 +144,7 @@ const ravi = {
 
 ### 🧪 Test & Package
 ![Jest](https://skillicons.dev/icons?i=jest)
+![Cypress](https://skillicons.dev/icons?i=cypress)
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![Webpack](https://skillicons.dev/icons?i=webpack)
 ![Babel](https://skillicons.dev/icons?i=babel)

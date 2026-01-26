@@ -137,6 +137,7 @@ const ravi = {
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Mongodb](https://skillicons.dev/icons?i=mongodb)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
+
 ---
 
 
@@ -145,6 +146,8 @@ const ravi = {
 ![Aws](https://skillicons.dev/icons?i=aws)
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![Gcp](https://skillicons.dev/icons?i=gcp)
+
+---
 
 
 ### 🧪 Test & Package
@@ -155,12 +158,16 @@ const ravi = {
 ![Babel](https://skillicons.dev/icons?i=babel)
 ![Npm](https://skillicons.dev/icons?i=npm)
 
+---
+
 
 ### 🎯 Design & Deployment 
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Notion](https://skillicons.dev/icons?i=notion)
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
+
+---
 
 
 ### ⚒️ Tools

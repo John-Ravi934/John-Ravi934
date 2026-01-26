@@ -124,6 +124,7 @@ const ravi = {
 ---
 
 <br>
+
 ### ⚙️ Backend
 ![Node](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
@@ -132,6 +133,7 @@ const ravi = {
 ---
 
 <br>
+
 ### 📂 Database
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
@@ -140,7 +142,7 @@ const ravi = {
 ---
 
 
-### ☁ Cloud & DevOps
+### ☁️ Cloud & DevOps
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Aws](https://skillicons.dev/icons?i=aws)
 ![Azure](https://skillicons.dev/icons?i=azure)

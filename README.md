@@ -123,7 +123,6 @@ const ravi = {
 
 ---
 
-<br>
 
 ### ⚙️ Backend
 ![Node](https://skillicons.dev/icons?i=nodejs)
@@ -132,7 +131,6 @@ const ravi = {
 
 ---
 
-<br>
 
 ### 📂 Database
 ![MySQL](https://skillicons.dev/icons?i=mysql)

@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=John-Ravi934&theme=merko&radius=10" alt="John-Ravi934's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=John-Ravi934&theme=merko&radius=10" alt="John-Ravi934's Activity Graph"/>
 </p>
 
 

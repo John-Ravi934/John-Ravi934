@@ -108,6 +108,7 @@ const ravi = {
 3. 🤝 Open to collaboration on **Open Source React projects**
 4. 🧠 Exploring the intersection of **AI & Frontend**
 5. 🔥 Hello World! I'm Ravi
+6. 🎨 Frontend Developer | ✨ Creative Thinker | 🚀 Lifelong Learner 
 
 ---
 

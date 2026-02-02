@@ -107,6 +107,7 @@ const ravi = {
 2. 🎨 Passionate about **Glassmorphism & Micro-interactions**
 3. 🤝 Open to collaboration on **Open Source React projects**
 4. 🧠 Exploring the intersection of **AI & Frontend**
+5. 🔥 Hello World! I'm Ravi
 
 ---
 

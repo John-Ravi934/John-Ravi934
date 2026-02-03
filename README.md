@@ -112,6 +112,7 @@ const ravi = {
 7. 💡 I love turning ideas into beautiful, functional digital experiences
 8. 🔧 Specializing in HTML, CSS, JavaScript, and React
 9. ⚙️ Skilled in Node.js, Express.js, and MongoDB for backend development
+10.📱 Exploring cross-platform app development with Flutter
 
 ---
 

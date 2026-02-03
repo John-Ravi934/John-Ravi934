@@ -103,7 +103,6 @@ const ravi = {
 
 ## 🧠 About Me
 
-4. 🧠 Exploring the intersection of **AI & Frontend**
 5. 🔥 Hello World! I'm Ravi
 6. 🎨 Frontend Developer | ✨ Creative Thinker | 🚀 Lifelong Learner
 7. 💡 I love turning ideas into beautiful, functional digital experiences

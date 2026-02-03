@@ -103,7 +103,6 @@ const ravi = {
 
 ## 🧠 About Me
 
-1. 🚀 Currently crafting **high-performance interfaces**
 2. 🎨 Passionate about **Glassmorphism & Micro-interactions**
 3. 🤝 Open to collaboration on **Open Source React projects**
 4. 🧠 Exploring the intersection of **AI & Frontend**

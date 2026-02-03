@@ -103,13 +103,13 @@ const ravi = {
 
 ## 🧠 About Me
 
-5. 🔥 Hello World! I'm Ravi
+1. 🔥 Hello World! I'm Ravi
 6. 🎨 Frontend Developer | ✨ Creative Thinker | 🚀 Lifelong Learner
 7. 💡 I love turning ideas into beautiful, functional digital experiences
 8. 🔧 Specializing in HTML, CSS, JavaScript, and React
 9. ⚙️ Skilled in Node.js, Express.js, and MongoDB for backend development
-10.📱 Exploring cross-platform app development with Flutter
-11.🖌️ Designing clean, user-friendly UIs with Figma
+10. 📱 Exploring cross-platform app development with Flutter
+11. 🖌️ Designing clean, user-friendly UIs with Figma
 12.🌐 Also experienced in WordPress website development
 13.📐 Building responsive, high-quality interfaces that feel smooth and intuitive
 14.✨ Let's create something impactful together!

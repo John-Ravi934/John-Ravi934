@@ -111,6 +111,7 @@ const ravi = {
 6. 🎨 Frontend Developer | ✨ Creative Thinker | 🚀 Lifelong Learner
 7. 💡 I love turning ideas into beautiful, functional digital experiences
 8. 🔧 Specializing in HTML, CSS, JavaScript, and React
+9. ⚙️ Skilled in Node.js, Express.js, and MongoDB for backend development
 
 ---
 

@@ -110,6 +110,7 @@ const ravi = {
 5. 🔥 Hello World! I'm Ravi
 6. 🎨 Frontend Developer | ✨ Creative Thinker | 🚀 Lifelong Learner
 7. 💡 I love turning ideas into beautiful, functional digital experiences
+8. 🔧 Specializing in HTML, CSS, JavaScript, and React
 
 ---
 

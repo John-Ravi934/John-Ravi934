@@ -112,7 +112,7 @@ const ravi = {
 7. 🖌️ Designing clean, user-friendly UIs with Figma
 8. 🌐 Also experienced in WordPress website development
 9.📐 Building responsive, high-quality interfaces that feel smooth and intuitive
-14.✨ Let's create something impactful together!
+10.✨ Let's create something impactful together!
 
 ---
 

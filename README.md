@@ -247,7 +247,7 @@ const ravi = {
 
 <div align="center">
   
-![GitHub Space Shooter](space-shooter.svg)
+![GitHub Space Shooter](gh-space-shooter.gif)
 
 </div
 

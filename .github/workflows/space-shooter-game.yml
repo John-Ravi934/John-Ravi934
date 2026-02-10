@@ -17,6 +17,6 @@ jobs:
       - uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: assets/space-shooter.gif
+          filename: assets/space-shooter.svg
           strategy: 'column'
           fps: 25

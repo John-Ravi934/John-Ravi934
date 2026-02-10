@@ -263,6 +263,8 @@ const ravi = {
 </picture>
 </div>
 
+---
+
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/john-ravi)

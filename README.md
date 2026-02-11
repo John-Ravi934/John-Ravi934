@@ -243,7 +243,7 @@ const ravi = {
 
 ---
 
-### 🚀 My GitHub Space Shooter:
+## 🚀 My GitHub Space Shooter:
 
 <div align="center">
   
@@ -253,7 +253,7 @@ const ravi = {
 
 ---
 
-# 🐍 Snake Game Repo View:
+## 🐍 Snake Game Repo View:
 
 <div align="center">
 <picture>
@@ -265,7 +265,7 @@ const ravi = {
 
 ---
 
-# 🏓Pong Game Repo View:
+## 🏓Pong Game Repo View:
 
 <div align="center">
 <picture>

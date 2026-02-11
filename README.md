@@ -279,7 +279,7 @@ const ravi = {
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/john-ravi)
+- 💼 <a href="https://www.linkedin.com/in/john-ravi target=blank">[LinkedIn]</a>
 - 💬 [WhatsApp](https://wa.me/637974231)
 - 📧 [Email](mailto:johnravi934@gmail.com)
 - 🌐 [Portfolio](https://ravi-glow-forge.lovable.app)

@@ -283,7 +283,6 @@ const ravi = {
 - 💬 [WhatsApp](https://wa.me/637974231)
 - 📧 [Email](mailto:johnravi934@gmail.com)
 - 🌐 [Portfolio](https://ravi-glow-forge.lovable.app )
-- <a href="www.linkedin.com/in/john-ravi" target="_blank"> Ravi </a>
 
 ---
 

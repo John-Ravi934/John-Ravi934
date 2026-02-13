@@ -249,7 +249,7 @@ const ravi = {
 
 🟡 *Pac-Man is munching through those commits!*
 
-![Pacman](https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg)
+![Pacman](https://raw.githubusercontent.com/John-Ravi934/John-Ravi934/pacman/pacman-contribution-graph-dark.svg)
 
 <div align="center">
   <img 

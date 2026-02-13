@@ -254,7 +254,7 @@ const ravi = {
 <div align="center">
   <img 
     src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/pacman/pacman-contribution-graph-dark.svg" 
-    width="1200"
+    width="1200" height="500"
   />
 </div>
 

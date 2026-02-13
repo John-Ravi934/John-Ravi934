@@ -251,6 +251,13 @@ const ravi = {
 
 ![Pacman](https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg)
 
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/pacman/pacman-contribution-graph-dark.svg" 
+    width="800"
+  />
+</div>
+
 ---
 
 ## 🚀 My GitHub Space Shooter:

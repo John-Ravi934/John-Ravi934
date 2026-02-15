@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=John-Ravi934&theme=merko&hide_border=true&cache_seconds=86400" alt="John-Ravi934's GitHub Streak" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=John-Ravi934&theme=merko&hide_border=true&cache_seconds=86400" alt="John-Ravi934's GitHub Streak" width="49%"/>
 </p>
 
 <p align="center">

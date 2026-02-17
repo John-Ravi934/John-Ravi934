@@ -20,7 +20,7 @@
 -🖌️ Designing clean, user-friendly UIs with Figma
 -🌐 Also experienced in WordPress website development
 -📐 Building responsive, high-quality interfaces that feel smooth and intuitive
-- ✨ Let's create something impactful together!
+-✨ Let's create something impactful together!
 
 
 

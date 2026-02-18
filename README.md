@@ -288,7 +288,7 @@ const ravi = {
 <div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/John-Ravi934/John-Ravi934/main/assets/breakout-dark.svg/dark.svg">
-  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/John-Ravi934/John-Ravi934/main/assets/breakout-dark.svg/light.svg" /> -->
+<!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/John-Ravi934/John-Ravi934/main/assets/breakout-dark.svg/light.svg" /> -->
    <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/John-Ravi934/John-Ravi934/main/assets/breakout-dark.svg/dark.svg">
 </picture>
 </div>

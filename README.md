@@ -4,7 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Welcome%20Guys..." alt="Typing introduction"/>
 </p>
 
-
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=John-Ravi934">
 <img src="https://komarev.com/ghpvc/?username=John-Ravi934&label=Profile%20views&color=00FFFF&style=flat-square" alt="John-Ravi934's profile views"/>

@@ -11,7 +11,7 @@
 </p>
 
 ## 📌 About Me
-- 🔥 Hello World! I'm Ravi
+-🔥 Hello World! I'm Ravi
 - 🎨 Frontend Developer | ✨ Creative Thinker | 🚀 Lifelong Learner 
 - 💡 I love turning ideas into beautiful, functional digital experiences
 - 🔧 Specializing in HTML, CSS, JavaScript, and React

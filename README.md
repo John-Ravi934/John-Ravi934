@@ -17,8 +17,8 @@
 -🔧 Specializing in HTML, CSS, JavaScript, and React
 -⚙️ Skilled in Node.js, Express.js, and MongoDB for backend development
 -📱 Exploring cross-platform app development with Flutter
-- 🖌️ Designing clean, user-friendly UIs with Figma
-- 🌐 Also experienced in WordPress website development
+-🖌️ Designing clean, user-friendly UIs with Figma
+-🌐 Also experienced in WordPress website development
 - 📐 Building responsive, high-quality interfaces that feel smooth and intuitive
 - ✨ Let's create something impactful together!
 
